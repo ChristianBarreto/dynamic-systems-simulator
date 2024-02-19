@@ -1,0 +1,16 @@
+{
+  "sample_rate": 100,
+  "blocks": {
+    "1": {
+      "id": 1,
+      "name": "indicator_1",
+      "type": "indicator",
+      "input": 2
+    },
+    "2": {
+      "id": 2,
+      "name": "step_1",
+      "type": "step"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-systems-simulator",
+  "version": "1.0.0",
+  "description": "Light weight dynamic systems simulator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianBarreto/dynamic-systems-simulator.git"
+  },
+  "keywords": [
+    "dynamic",
+    "systems",
+    "simulator"
+  ],
+  "author": "Christian Barreto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristianBarreto/dynamic-systems-simulator/issues"
+  },
+  "homepage": "https://github.com/ChristianBarreto/dynamic-systems-simulator#readme"
+}
